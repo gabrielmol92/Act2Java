@@ -1,0 +1,2 @@
+module act2Java {
+}
